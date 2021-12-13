@@ -10,6 +10,9 @@
 - Research Assistant @ [NetAI Lab, Institute of Data Science, National Cheng Kung University](https://sites.google.com/view/chengteli/home)
 - Head Teaching Assistant @ [Department of Statistics, National Cheng Kung University](http://www.stat.ncku.edu.tw/index.php?lang=en)
 
+# Details
+![](https://i.imgur.com/ITSAm9b.png)
+
 <!---
 chl131/chl131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
