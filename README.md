@@ -1,5 +1,5 @@
 # Intro
-- 👋 Hi, I’m Michael, a current Master student in Computer Science at [University of California, San Diego (UCSD)](https://cse.ucsd.edu/).
+- 🔱 Hi, I’m Michael, a current Master student in Computer Science at [University of California, San Diego (UCSD)](https://cse.ucsd.edu/).
 - 👀 I’m actively seeking 2022 SDE/ML/DS summer internship.
 - 🎵 By the way, I'm also an Audiophile and Melophile.
 - 📫 [email](mailto:chl131@ucsd.edu)
