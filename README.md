@@ -11,7 +11,7 @@
 - Head Teaching Assistant @ [Department of Statistics, National Cheng Kung University](http://www.stat.ncku.edu.tw/index.php?lang=en)
 
 # Details
-![](https://i.imgur.com/CXO6nNd.png)
+![](https://i.imgur.com/HV4j5s8.png)
 
 <!---
 chl131/chl131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
