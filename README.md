@@ -6,8 +6,8 @@
 - 🔗 [Linkedin](https://www.linkedin.com/in/michaellee1996)
 
 # Experience
-- Machine Learning Engineer Intern @ [Bank SinoPac](https://bank.sinopac.com/)
-- Research Assistant @ [Wikimedia Foundation](https://wikimediafoundation.org/) | [NetAI Lab, Institute of Data Science, NCKU](https://sites.google.com/view/chengteli/home)
+- Software Engineer @ [Bank SinoPac](https://bank.sinopac.com/)
+- Software Engineer @ [Wikimedia Foundation](https://wikimediafoundation.org/) | [NetAI Lab, Institute of Data Science, NCKU](https://sites.google.com/view/chengteli/home)
 - Head Teaching Assistant @ [Department of Statistics, National Cheng Kung University](http://www.stat.ncku.edu.tw/index.php?lang=en)
 
 # Details
