@@ -11,7 +11,7 @@
 - Head Teaching Assistant @ [Department of Statistics, National Cheng Kung University](http://www.stat.ncku.edu.tw/index.php?lang=en)
 
 # Details
-![](img/Michael_Lee_CV.png)
+![](img/Resume.png)
 
 <!---
 chl131/chl131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
