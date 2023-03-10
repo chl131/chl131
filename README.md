@@ -1,7 +1,6 @@
 # Intro
 - 🔱 Hi, I’m Michael, a current Master student in Computer Science at [University of California, San Diego (UCSD)](https://cse.ucsd.edu/).
-- 👀 I’m actively seeking for 2023 New Grad SDE position.
-- 🎵 By the way, I'm also an Audiophile and Melophile.
+- 🎵 I'm an Audiophile and Melophile.
 - 📫 [email](mailto:chl131@ucsd.edu)
 - 🔗 [Linkedin](https://www.linkedin.com/in/michaellee1996)
 
